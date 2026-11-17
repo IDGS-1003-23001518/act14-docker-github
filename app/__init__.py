@@ -1,0 +1,1 @@
+"""Aplicación de ejemplo para la actividad Act 14."""
